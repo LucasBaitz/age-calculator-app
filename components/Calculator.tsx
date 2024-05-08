@@ -4,14 +4,14 @@ import DateInput from "./Input/DateInput/DateInput";
 import Label from "./Input/Label/Label";
 import Button from "./Input/Button/Button";
 import Result from "./Result/Result";
-import { Birthday } from "@/app/Interfaces/Birthday";
-import { Age } from "@/app/Interfaces/Age";
+import { Birthday } from "@/Interfaces/Birthday";
+import { Age } from "@/Interfaces/Age";
 import {
   calculateAge,
   isValidDay,
   isValidMonth,
   isValidYear,
-} from "@/app/Utils/ageCalculator";
+} from "@/Utils/ageCalculator";
 
 const REQUIRED_MESSAGE = "This field is required";
 const VALID_DATE_MESSAGE = "Must be a valid date";
