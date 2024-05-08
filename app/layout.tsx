@@ -12,7 +12,7 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: "Age Calculator",
   description:
-    "Simple Age calculator created to solve FrontEndMasters challenge",
+    "Simple Age calculator created to solve Frontend Mentor challenge",
   creator: "Lucas Baitz",
 };
 
