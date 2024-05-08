@@ -1,6 +1,6 @@
 # Frontend Mentor - Age Calculator App
 
-![Design preview for the "Age Calculator App" coding challenge](age-calculator-app-main\design\desktop-preview.jpg)
+![Design preview for the "Age Calculator App" coding challenge](age-calculator-app-main/design/desktop-preview.jpg)
 
 Challenge Details:
 
